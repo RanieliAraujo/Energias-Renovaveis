@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Energias Renováveis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg justify-content-center rounded" style="background-color: #126EFF; height: 70px; padding: .5rem 1rem;">
+        <p class="navbar-text text-white fs-2">Desenvolvimento de Interfaces Web</p>
+    </nav>
+    <div class="d-flex justify-content-between">
+        <a href="index.html" class="btn btn-outline-primary mt-3 ms-2 fs-3">RANIELI ARAUJO</a>
+        <div>
+            <a href="Repositório1.html" class="btn btn-outline-primary mt-3 me-2 fs-3">O Silício</a>
+            <a href="Repositório2.html" class="btn btn-outline-primary mt-3 me-2 fs-3">Energias Renováveis</a>
+            <a href="Repositório3.html" class="btn btn-outline-primary mt-3 me-2 fs-3">Computadores Quânticos</a>
+        </div>
+    </div>
+
+    <header class="bg-light py-4">
+        <div class="container">
+            <h1 class="text-center">Energias Renováveis</h1>
+        </div>
+    </header>
+    <section class="py-4">
+        <div class="container">
+            <h2>O que são energias renováveis?</h2>
+            <p>Energias renováveis são aquelas geradas a partir de fontes naturais que são reabastecidas continuamente, como sol, vento, água e biomassa.</p>
+        </div>
+    </section>
+    <section class="py-4 bg-light">
+        <div class="container">
+            <h2>Vantagens das energias renováveis</h2>
+            <ul>
+                <li>Redução da emissão de gases de efeito estufa</li>
+                <li>Menor impacto ambiental</li>
+                <li>Fontes inesgotáveis de energia</li>
+                <li>Potencial para criação de empregos</li>
+            </ul>
+        </div>
+    </section>
+    <footer class="bg-dark text-light py-4">
+        <div class="container">
+            <p class="text-center">&copy; 2024 Energias Renováveis</p>
+        </div>
+    </footer>
+</body>
+</html>
+
